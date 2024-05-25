@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sekhar</h1>
-<h3 align="center">A Passionate Learner and MERN Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Sekhar Reddy</h1>
+<h3 align="center">A Passionate Learner and FULL Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sekhar-profile&label=Profile%20views&color=0e75b6&style=flat" alt="sekhar-profile-views" />
 </p>
 
-- 🌱 I’m currently honing my skills in the **MERN Stack**.
-- 🚀 I have successfully completed my MERN Stack training and am actively working on exciting projects.
+- 🌱 I’m currently honing my skills in the **FULL Stack along with WEBRTC,NextJS,Docker**.
+- 🚀 I have successfully completed MERN Stack and am actively working on exciting projects.
 - 💼 Open to collaborative projects and professional opportunities.
 - 📫 Feel free to reach out to me at **jeerurajasekharreddy@gmail.com**.
 
