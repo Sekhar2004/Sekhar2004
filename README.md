@@ -42,13 +42,3 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sekhar-profile&show_icons=true&theme=radical" alt="sekhar-profile-stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sekhar-profile&theme=radical" alt="sekhar-profile-streak" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekhar-profile&layout=compact&theme=radical" alt="sekhar-profile-langs" />
-</p>
