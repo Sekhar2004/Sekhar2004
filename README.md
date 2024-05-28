@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 I’m currently honing my skills in the **FULL Stack along with WEBRTC,NextJS,Docker**.
+- 🔍 Currently working on a Journal project to enhance my skills and create a personalized digital diary experience.
 - 🚀 I have successfully completed MERN Stack and am actively working on exciting projects.
 - 💼 Open to collaborative projects and professional opportunities.
 - 📫 Feel free to reach out to me at **jeerurajasekharreddy@gmail.com**.
