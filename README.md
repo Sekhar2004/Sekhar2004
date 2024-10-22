@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sekhar Reddy</h1>
-<h3 align="center">A Passionate Learner </h3>
+<h3 align="center">A Passionate Learner and Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sekhar-profile&label=Profile%20views&color=0e75b6&style=flat" alt="sekhar-profile-views" />
 </p>
 
-- 🌱 I’m currently honing my skills in the **PHP,MYSQL**.
-- 🔍 Completed a Journal project to enhance my  MERN Development skills and create a personalized digital diary experience.
-- 🚀 I have successfully completed learning MERN Stack and am actively working on exciting projects.
+- 💻 Built a **Real-Time Chat Application** using **Socket.io** and **Node.js** to enable seamless communication between users.
+- ✍️ Developed a **Blog Website** using the **MERN Stack** where users can create, edit, and read blog posts.
+- 🔍 Currently exploring new technologies such as **Prisma** and **Postman** to enhance API management and database handling.
+- 📊 Focused on mastering **API Integration** and advanced **Backend Development** using **Node.js** and **MongoDB**.
 - 📫 Feel free to reach out to me at **jeerurajasekharreddy@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
   <a href="https://www.linkedin.com/in/sekhar-reddy-jeeru" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sekhar's LinkedIn" height="30" width="40" />
   </a>
@@ -46,12 +46,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-  </a>
   
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  
+ 
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -63,9 +60,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  
+  <a href="https://php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
-
-
-
-
-
