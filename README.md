@@ -10,6 +10,10 @@
 - 🔍 Currently exploring new technologies such as **Prisma** and **Postman** to enhance API management and database handling.
 - 📊 Focused on mastering **API Integration** and advanced **Backend Development** using **Node.js** and **MongoDB**.
 - 📫 Feel free to reach out to me at **jeerurajasekharreddy@gmail.com**.
+  <h3 align="left">📄 Resume:</h3>
+<p align="left">
+  You can view my resume <a href="https://drive.google.com/file/d/1hps_CcFcJ-Kd6ZaCZp0oPgEZjN0rORTd/view?usp=sharing" target="_blank">here</a>.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,7 +65,4 @@
   </a>
 </p>
 
-<h3 align="left">📄 Resume:</h3>
-<p align="left">
-  You can view my resume <a href="https://drive.google.com/file/d/1hps_CcFcJ-Kd6ZaCZp0oPgEZjN0rORTd/view?usp=sharing" target="_blank">here</a>.
-</p>
+
