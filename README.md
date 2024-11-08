@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=sekhar-profile&label=Profile%20views&color=0e75b6&style=flat" alt="sekhar-profile-views" />
 </p>
 
-- 💻 Built a **Real-Time Chat Application** using **Socket.io** and **Node.js** to enable seamless communication between users.
-- ✍️ Developed a **Blog Website** using the **MERN Stack** where users can create, edit, and read blog posts.
-- 🔍 Currently exploring new technologies such as **Prisma** and **Postman** to enhance API management and database handling.
-- 📊 Focused on mastering **API Integration** and advanced **Backend Development** using **Node.js** and **MongoDB**.
-- 📫 Feel free to reach out to me at **jeerurajasekharreddy@gmail.com**.
+💻 Proficient in Full-Stack Development with expertise in the MERN Stack (MongoDB, Express.js, React, Node.js).
+☁️ Hands-on experience with AWS services such as EC2, S3, Lambda, RDS, and Polly for cloud-based solutions and serverless architecture.
+🔧 Skilled in API Integration, Backend Development, and Database Management using MongoDB .
+🔍 Currently deepening my knowledge of Postman for API testing and Prisma for advanced database handling.
+📈 Passionate about building scalable, efficient, and secure applications with a strong focus on cloud computing and serverless architecture.
   <h3 align="left">📄 Resume:</h3>
 <p align="left">
   You can view my resume <a href="https://drive.google.com/file/d/1hps_CcFcJ-Kd6ZaCZp0oPgEZjN0rORTd/view?usp=sharing" target="_blank">here</a>.
